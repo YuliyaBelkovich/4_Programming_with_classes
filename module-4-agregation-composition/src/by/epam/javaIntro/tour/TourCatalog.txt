@@ -1,0 +1,24 @@
+hiking,5,breakfast,bus,50
+hiking,5,all inclusive,plane,100
+hiking,7,breakfast,bus,70
+hiking,7,all inclusive,plane,120
+excursion,5,breakfast,bus,70
+excursion,5,all inclusive,plane,120
+excursion,7,breakfast,bus,100
+excursion,7,all inclusive,plane,150
+sea,5,breakfast,bus,70
+sea,5,all inclusive,plane,100
+sea,7,breakfast,bus,100
+sea,7,all inclusive,plane,150
+health,5,breakfast,bus,100
+health,5,all inclusive,plane,150
+health,7,breakfast,bus,150
+health,7,all inclusive,plane,200
+shopping,2,no,bus,30
+shopping,2,breakfast,bus,50
+shopping,4,no,bus,50
+shopping,4,breakfast,bus,70
+cruise,5,breakfast,bus,150
+cruise,5,all inclusive,plane,200
+cruise,7,breakfast,bus,170
+cruise,7,all inclusive,plane,220
