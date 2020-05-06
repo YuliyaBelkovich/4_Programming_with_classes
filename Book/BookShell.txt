@@ -1,0 +1,6 @@
+1001,Pride and Prejudice,Jane Austen,Penguin Classics,2012,416,5,hard
+1002,To Kill a Mockingbird,Harper Lee,Arrow,2015,320,5,hard
+1003,The Great Gatsby,F. Scott Fitzgerald,Penguin Classics,2000,240,7,hard
+1004,One Hundred Years of Solitude,Gabriel García Márquez,Penguin,2014,432,9,hard
+1005,In Cold Blood,Truman Capote,Penguin Classics,2014,320,9,hard
+1006,Go Set a Watchman,Harper Lee,Arrow,2015,320,15,hard
