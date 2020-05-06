@@ -1,0 +1,12 @@
+Tokyo;324;boeing 777;13.30;monday,tuesday,wednesday,thursday,friday,saturday,sunday
+Tokyo;325;boeing 777;15.30;monday,tuesday,wednesday,thursday,friday,saturday,sunday
+Tokyo;326;boeing 777;17.30;monday,tuesday,wednesday,thursday,friday,saturday,sunday
+Tokyo;327;boeing 777;19.30;monday,tuesday,wednesday,thursday,friday,saturday,sunday
+Tokyo;328;boeing 777;21.30;monday,tuesday,wednesday,thursday,friday,saturday,sunday
+Osaka;411;boeing 777;11.00;monday,tuesday,wednesday,thursday,friday
+Osaka;412;boeing 777;11.00;monday,tuesday,wednesday,thursday,friday
+Osaka;413;boeing 777;15.00;monday,tuesday,wednesday,thursday,friday
+Nagoya;765;boeing 777;7.00;monday,wednesday,friday,sunday
+Iokogama;865;boeing 777;7.00;tuesday,thursday,friday,saturday
+Nagoya;766;boeing 777;17.00;monday,wednesday,friday,sunday
+Iokogama;866;boeing 777;17.00;tuesday,thursday,friday,saturday
