@@ -1,4 +1,4 @@
-package by.epam.javaIntro.simpleClass.Book;
+package by.epam.javaIntro.simpleClass.book;
 
 import java.io.File;
 import java.io.FileNotFoundException;
